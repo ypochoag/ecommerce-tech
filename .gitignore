@@ -216,6 +216,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # figma files
-figma/*.fig
+/figma/*.fig
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,node
